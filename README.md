@@ -168,7 +168,7 @@ This project demonstrates:
 
 **Streamlit App**
 
-> https://your-app-name.streamlit.app
+> https://smart-crop-recommend.streamlit.app/
 
 ---
 
