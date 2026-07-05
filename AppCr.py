@@ -72,11 +72,6 @@ h2{
 # SIDEBAR
 # ===========================
 
-st.sidebar.image(
-    "https://cdn-icons-png.flaticon.com/512/2909/2909762.png",
-    width=120
-)
-
 st.sidebar.title("🌾 Crop Recommendation")
 
 st.sidebar.markdown("---")
